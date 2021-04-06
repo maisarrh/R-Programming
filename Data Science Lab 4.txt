@@ -42,6 +42,4 @@
 > for(i in 1:length(mark)){
 +     result <- c(total, myCGPA(mark[i]))
 + }
-> print('CGPA:')
 > print(result)
-> View(mydata)
